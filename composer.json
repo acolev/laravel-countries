@@ -1,5 +1,5 @@
 {
-    "name": "nerdsnipe/laravel-countries",
+    "name": "ninjacode/laravel-countries",
     "description": "Used to add country, state, city selectors to any laravel view. Provides all cities and states for 251 countries",
     "keywords": [
         "NerdSnipe",
